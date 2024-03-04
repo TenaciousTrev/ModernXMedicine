@@ -6,6 +6,7 @@
 
 # Site settings
 title:              Étoile
+Theme:		    jekyll-theme-etoile
 description:        Magazine Jekyll theme for writers and bloggers.
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
